@@ -1,0 +1,37 @@
+#header{
+			width: auto;
+			height: 150px;
+			border: 1px solid green;
+			background-color: #e8419a;
+
+		}
+		#welcome{
+			text-align: right;
+		}
+		
+
+		#content{
+			width: 1500px;
+		}
+		#mainbar{
+			height: 1200px;
+			width: 1300px;
+			background-color: lightgray;
+			float: right;
+		}
+		#sidebar{
+			width: 200px;
+			background-color: blue;
+			height: 1200px;
+
+		}
+		#footer{
+			background-color: green;
+			color: #fff;
+			width: auto;
+
+			
+			text-align: center;
+		}
+
+
